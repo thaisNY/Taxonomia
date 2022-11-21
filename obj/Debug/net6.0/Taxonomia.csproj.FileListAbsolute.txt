@@ -1,0 +1,15 @@
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\bin\Debug\net6.0\Taxonomia.exe
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\bin\Debug\net6.0\Taxonomia.deps.json
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\bin\Debug\net6.0\Taxonomia.runtimeconfig.json
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\bin\Debug\net6.0\Taxonomia.dll
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\bin\Debug\net6.0\Taxonomia.pdb
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\Taxonomia.csproj.AssemblyReference.cache
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\Taxonomia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\Taxonomia.AssemblyInfoInputs.cache
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\Taxonomia.AssemblyInfo.cs
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\Taxonomia.csproj.CoreCompileInputs.cache
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\Taxonomia.dll
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\refint\Taxonomia.dll
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\Taxonomia.pdb
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\Taxonomia.genruntimeconfig.cache
+C:\Users\thais\source\repos\Taxonomia\Taxonomia\obj\Debug\net6.0\ref\Taxonomia.dll
